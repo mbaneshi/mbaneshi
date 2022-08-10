@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbaneshi)](https://github.com/mbaneshi/github-readme-stats)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=mbaneshi)](https://github.com/mbaneshi/github-profile-trophy)
