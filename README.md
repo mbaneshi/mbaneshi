@@ -17,3 +17,7 @@ Here are some ideas to get you started:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mbaneshi)](https://github.com/mbaneshi/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mbaneshi)](https://github.com/mbaneshi/github-profile-trophy)
+[![MasterHead](your image link)](your GitHub link)
+
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
