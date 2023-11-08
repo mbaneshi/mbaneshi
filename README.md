@@ -1,3 +1,8 @@
-"I am about to engage in TON development."
+#### "I am about to engage in TON development."
 
-Here it is https://ton.org
+
+
+##### But wait, what is TON : 
+##### Checkout it ,[Here](https://youtu.be/t9NLv6sr9Cw)
+
+##### Want to  Learn More [Here it is](https://ton.org)
