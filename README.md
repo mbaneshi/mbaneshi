@@ -1,8 +1,9 @@
-#### "I am about to engage in TON development."
 
 
-
-##### But wait, what is TON : 
-##### Checkout it ,[Here](https://youtu.be/t9NLv6sr9Cw)
-
-##### Want to  Learn More [Here it is](https://ton.org)
+ I'm gearing up for TON development.   
+ 
+ If you're wondering what TON is, 
+ take a moment to explore it [Here](https://youtu.be/t9NLv6sr9Cw). 
+ 
+ And if you're eager to dive deeper, 
+ find more information right [Here](https://ton.org).
