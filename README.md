@@ -1,68 +1,56 @@
-# Hi, I'm Mehdi Baneshi 
 
-I’m a Senior Software Developer with a passion for building scalable systems and learning new technologies. Here, you'll find an overview of my tech stack, current projects, and how you can get involved or connect with me!
+# Hi, I'm Mehdi Baneshi
+
+I am a **Senior Software Developer** with a deep passion for building scalable systems and constantly learning new technologies. My interests span from **systems architecture** to **compiler design**, and I’m actively exploring exciting areas like **Rust**, **WebAssembly**, and **AI-driven automation**. This repository serves as a showcase of my work, projects, and tools I use in my everyday workflow.
+
+I am **stack-agnostic** and love experimenting with different tools, choosing the ones that best align with my drive for efficiency. I’m passionate about **algorithms**, **data structures**, and **design patterns**—a true computer science nerd with a love for both low-level performance and high-level problem-solving.
+
+Recently, I’ve been diving deeper into **AI**, **automation**, and scaling my skills across new domains. From **system design** to **distributed systems** and **product UX**, I aim to craft scalable, maintainable, and extensible software solutions.
+
+I believe in hands-on exploration: whether it’s **Java**, **Python**, **Kotlin**, or **Swift**, or dabbling in **Flutter** or **React Native** for mobile development. No matter the tech stack, I’m up for the challenge and enjoy the learning journey.
 
 ---
 
 ## 💻 Tech Stack
 
 - **Languages**:  
-  - C, C++, Rust, Python, Go, JavaScript (Node.js)
+  C++, Rust, Python, Go, TypeScript, Lua
+  
 - **Web Technologies**:  
-  - Express.js, MongoDB, Playwright, Google Chrome Extensions
+  Express.js, MongoDB, Playwright, Google Chrome Extensions
+  
 - **Tools & Environment**:  
-  - Neovim (configured with LazyVim), Fish shell, Zellij, Kitty/Alacritty/iTerm, Ranger, fd, rg, fzf
+  Neovim (LazyVim), Fish Shell, Zellij, Kitty/Alacritty/iTerm, WezTerm, Ranger, fd, rg, fzf
+  
 - **Specialties**:  
-  - Compiler design, CPU architecture, GPU programming
-
-## 🔭 Current Projects
-
-### 1. [Project Name](https://github.com/username/project)
-A brief description of this project, what it's aimed to achieve, and the technologies being used.
-
-# Porting Automation with Rust & WebAssembly
-
-Welcome to my repository, where I document my journey in automating codebase porting to **Rust** and **WebAssembly**, with a focus on the [TON Blockchain](https://github.com/ton-blockchain/ton). Leveraging AI, code analyzers, and web automation tools, I aim to streamline the process of adapting existing codebases for modern environments.
-
-## 🔧 Current Research & Workflow Design
-
-I'm currently in the **research phase**, gathering the most suitable tools and designing an efficient workflow to automate this process.
-
-### Goals
-- Automate the porting of codebases to **Rust** and **Wasm**.
-- Build agentic tools powered by **LLMs** for code analysis and social media interaction automation.
-- Utilize AI models from HuggingFace to streamline content generation and workflow decisions.
+  Compiler Design, CPU Architecture, GPU Programming, Web Automation
 
 ---
 
-## 🛠 Tech Stack & Tools
+## 🔭 Featured Projects
 
-### Automation & AI
-- **HuggingFace Models**: For code understanding, natural language processing, and automation.
-- **Playwright & Chrome Extensions**: For web interaction and testing.
-- **LLMs (Language Models)**: To power AI-driven decisions and generate content automatically.
+### 1. [Porting Automation with Rust & WebAssembly](https://github.com/username/project)
+This project focuses on automating codebase porting to **Rust** and **WebAssembly**, with a special emphasis on the [TON Blockchain](https://github.com/ton-blockchain/ton). By leveraging **AI-powered** tools, I streamline the transition to modern architectures.
 
-### Backend & Dashboard
-- **FastAPI**: For backend services to monitor and manage the porting process.
-- **Streamlit**: For visualizing progress and creating interactive dashboards.
-- **PostgreSQL**: As the main database to store logs, progress, and automation metadata.
+#### Key Features:
+- Automated porting to **Rust** and **Wasm**
+- AI-driven code analysis and automation
+- Integrating **LLMs** for intelligent workflow decisions
 
----
-
-## 🚀 Current Projects
-
-### 1. Porting TON Blockchain to Rust/Wasm
-The core project focuses on converting the [TON Blockchain](https://github.com/ton-blockchain/ton) codebase into **Rust** and **WebAssembly**, utilizing AI for automation.
-
-### 2. Web Interaction Automation
-Building an admin dashboard with **FastAPI** and **Streamlit**, I automate the interaction process with **Playwright** and custom **Chrome extensions**.
-
-### 3. Social Media Automation with LLMs
-Exploring **HuggingFace** models to create automated tools for content generation, social media management, and interaction, with the goal of building a small business around AI-driven social automation.
+### 2. [Web Interaction Automation Dashboard](https://github.com/username/another_project)
+An admin dashboard automating web interactions using **Playwright** and custom **Google Chrome Extensions**. Powered by **FastAPI** for the backend and **Streamlit** for visualization, it enables seamless web automation for various applications.
 
 ---
 
-## 🔗 Additional Repositories
+## 🔧 Research & Development Focus
+
+- **Porting Legacy Codebases**: Transitioning to **Rust** and **WebAssembly** for improved performance and scalability.
+- **LLM-powered Automation**: Utilizing **HuggingFace** models for advanced natural language processing and decision-making workflows.
+- **AI-driven Social Media Management**: Automating content generation, scheduling, and engagement using AI.
+
+---
+
+## 🌟 Additional Repositories
 
 - [Chrome Extensions for Web Automation](https://github.com/username/chrome_extensions)
 - [AI Code Transformation Tools](https://github.com/username/ai_code_tools)
@@ -70,42 +58,19 @@ Exploring **HuggingFace** models to create automated tools for content generatio
 
 ---
 
-## 🌐 Future Plans
+## 🌐 Let's Connect
 
-- Fully automate social media interaction with AI-driven workflows.
-- Craft more efficient tools for analyzing and transforming codebases to **Rust** and **Wasm**.
-- Develop business-oriented tools around automated content creation and social engagement.
+I’m always open to collaboration and new opportunities! Feel free to reach out through these platforms:
 
----
-### 2. [Another Project](https://github.com/username/another_project)
-A description of another interesting project you're working on.
-
-### 3. [Experimental Repo](https://github.com/username/experimental_repo)
-A space for your experimental work with WebAssembly, GPU programming, or anything else you're exploring.
-
----
-
-## 📂 Other Repositories
-
-- [Tooling Repo](https://github.com/username/tooling_repo): My collection of useful tools, configurations, and dotfiles.
-- [Language Experiments](https://github.com/username/language_experiments): Experimental repos in various languages like Rust and Go.
-- [Playground](https://github.com/username/playground): Fun projects where I explore new ideas and tech.
-
----
-
-## 🚀 Want to Collaborate?
-
-If you're interested in contributing to my projects or just want to reach out, feel free to connect on [LinkedIn](https://www.linkedin.com/in/username) or send a pull request on GitHub!
-
-## 🌐 Find Me Elsewhere
-
-- Personal Blog: [https://yourblog.com](https://yourblog.com)
-- Twitter: [@yourhandle](https://twitter.com/yourhandle)
-- GitHub Profile: [https://github.com/username](https://github.com/username)
+- **LinkedIn**: [linkedin.com/in/mbaneshi](https://www.linkedin.com/in/mbaneshi/)
+- **Twitter (X)**: [@mbaneshi_](https://x.com/mbaneshi_)
+- **Substack**: [substack.com/@baneshi](https://substack.com/@baneshi)
+- **Telegram**: [t.me/mbaneshi1](https://t.me/mbaneshi1)
+- **Email**: [baneshi@gmail.com](mailto:baneshi@gmail.com)
 
 ---
 
 ## 📝 License
 
-This project and all associated repositories are licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
