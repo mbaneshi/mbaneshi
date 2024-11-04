@@ -20,10 +20,10 @@ I believe in hands-on exploration: whether it’s **Java**, **Python**, **Kotlin
   Express.js, MongoDB, Playwright, Google Chrome Extensions
   
 - **Tools & Environment**:  
-  Neovim (LazyVim), Fish Shell, Zellij, Kitty/Alacritty/iTerm, WezTerm, Ranger, fd, rg, fzf
+  Neovim (LazyVim), Fish Shell, Wezterm, WezTerm, Yazi, fd, rg, fzf
   
 - **Specialties**:  
-  Compiler Design, CPU Architecture, GPU Programming, Web Automation
+  Fullstack Development, Scripting, Web Automation
 
 ---
 
