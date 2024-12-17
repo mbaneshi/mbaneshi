@@ -73,5 +73,5 @@ I’m always open to collaboration and new opportunities! Feel free to reach out
 ## 📝 License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-[![GitHub Trends SVG](https://api.githubtrends.io/mbaneshi/svg/avgupta456/langs)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mbaneshi/langs)](https://githubtrends.io)
 
