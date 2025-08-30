@@ -1,77 +1,75 @@
+# Hi, I'm Mehdi Baneshi 👋
 
-# Hi, I'm Mehdi Baneshi
+I'm a **Full Stack Developer & AI Integrator**, working as an **independent contractor** and **remote-first developer**. I help startups and growing teams build scalable applications — faster — by combining modern tech stacks with intelligent automation.
 
-I am a **Senior Software Developer** with a deep passion for building scalable systems and constantly learning new technologies. My interests span from **systems architecture** to **compiler design**, and I’m actively exploring exciting areas like **Rust**, **WebAssembly**, and **AI-driven automation**. This repository serves as a showcase of my work, projects, and tools I use in my everyday workflow.
+With over 8 years of experience, I specialize in **leading small teams**, **mentoring junior developers**, and **architecting full-stack systems** that are maintainable, efficient, and ready for growth.
 
-I am **stack-agnostic** and love experimenting with different tools, choosing the ones that best align with my drive for efficiency. I’m passionate about **algorithms**, **data structures**, and **design patterns**—a true computer science nerd with a love for both low-level performance and high-level problem-solving.
+I’m currently focused on:
+- Building AI-powered workflows using **LangChain, PydanticAI, and n8n**
+- Developing robust backends with **Python, FastAPI, Django, and Node.js**
+- Crafting responsive frontends with **React, React Native, and TypeScript**
+- Containerizing and deploying with **Docker, Docker Compose, and cloud platforms**
+- Leveraging **Supabase, PostgreSQL, and real-time data** for modern apps
 
-Recently, I’ve been diving deeper into **AI**, **automation**, and scaling my skills across new domains. From **system design** to **distributed systems** and **product UX**, I aim to craft scalable, maintainable, and extensible software solutions.
-
-I believe in hands-on exploration: whether it’s **Java**, **Python**, **Kotlin**, or **Swift**, or dabbling in **Flutter** or **React Native** for mobile development. No matter the tech stack, I’m up for the challenge and enjoy the learning journey.
-
----
-
-## 💻 Tech Stack
-
-- **Languages**:  
-  C++, Rust, Python, Go, TypeScript, Lua
-  
-- **Web Technologies**:  
-  Express.js, MongoDB, Playwright, Google Chrome Extensions
-  
-- **Tools & Environment**:  
-  Neovim (LazyVim), Fish Shell, Wezterm, WezTerm, Yazi, fd, rg, fzf
-  
-- **Specialties**:  
-  Fullstack Development, Scripting, Web Automation
+I use AI **daily** — not just for code suggestions, but for **system design, debugging, documentation, and automation**. I believe the future of development is **agentic coding**, and I'm already living it.
 
 ---
 
-## 🔭 Featured Projects
+## 💼 Tech Stack
 
-### 1. [Porting Automation with Rust & WebAssembly](https://github.com/username/project)
-This project focuses on automating codebase porting to **Rust** and **WebAssembly**, with a special emphasis on the [TON Blockchain](https://github.com/ton-blockchain/ton). By leveraging **AI-powered** tools, I streamline the transition to modern architectures.
+### 🔧 Backend & APIs
+Python, Django, FastAPI, Node.js, Express.js, REST, GraphQL
 
-#### Key Features:
-- Automated porting to **Rust** and **Wasm**
-- AI-driven code analysis and automation
-- Integrating **LLMs** for intelligent workflow decisions
+### 🖥️ Frontend & Mobile
+TypeScript, React, React Native, Next.js, Tailwind CSS
 
-### 2. [Web Interaction Automation Dashboard](https://github.com/username/another_project)
-An admin dashboard automating web interactions using **Playwright** and custom **Google Chrome Extensions**. Powered by **FastAPI** for the backend and **Streamlit** for visualization, it enables seamless web automation for various applications.
+### 🛢️ Databases & Storage
+PostgreSQL, Supabase, Firebase, Redis
+
+### ⚙️ DevOps & Infrastructure
+Docker, Docker Compose, Linux (Ubuntu), Git, GitHub Actions, CI/CD
+
+### 🤖 AI & Automation
+LangChain, PydanticAI, n8n, LLMs, AI-driven scripting, agentic workflows
+
+### 🧰 Tools I Trust
+VS Code, Neovim, Git, GitHub, Terminal (Fish/Zsh), Postman, Insomnia
 
 ---
 
-## 🔧 Research & Development Focus
+## 🏗️ What I Do Best
 
-- **Porting Legacy Codebases**: Transitioning to **Rust** and **WebAssembly** for improved performance and scalability.
-- **LLM-powered Automation**: Utilizing **HuggingFace** models for advanced natural language processing and decision-making workflows.
-- **AI-driven Social Media Management**: Automating content generation, scheduling, and engagement using AI.
+### 🚀 Full-Stack Development
+From idea to deployment, I build clean, scalable apps using modern frameworks and best practices.
 
----
+### 🧠 AI-Powered Development
+I integrate AI into the development lifecycle — automating testing, generating logic, improving docs, and reducing boilerplate.
 
-## 🌟 Additional Repositories
+### 🛠️ System Architecture
+Designing modular, maintainable systems with clear separation of concerns and future-proof scaling.
 
-- [Chrome Extensions for Web Automation](https://github.com/username/chrome_extensions)
-- [AI Code Transformation Tools](https://github.com/username/ai_code_tools)
-- [Rust & Wasm Experiments](https://github.com/username/rust_wasm_experiments)
+### 👥 Team Leadership
+I’ve led small dev teams, onboarded juniors, conducted code reviews, and established development workflows.
+
+### 🔁 Automation & Integration
+Using tools like **n8n** and **LangChain**, I connect APIs, automate business logic, and reduce manual work.
 
 ---
 
 ## 🌐 Let's Connect
 
-I’m always open to collaboration and new opportunities! Feel free to reach out through these platforms:
+I'm open to **freelance projects**, **contract roles**, and **remote opportunities** — especially those involving AI, automation, or full-stack product development.
+
+Feel free to reach out:
 
 - **LinkedIn**: [linkedin.com/in/mbaneshi](https://www.linkedin.com/in/mbaneshi/)
-- **Twitter (X)**: [@mbaneshi_](https://x.com/mbaneshi_)
 - **Substack**: [substack.com/@baneshi](https://substack.com/@baneshi)
 - **Telegram**: [t.me/mbaneshi1](https://t.me/mbaneshi1)
 - **Email**: [baneshi@gmail.com](mailto:baneshi@gmail.com)
 
 ---
 
-## 📝 License
+## 📄 License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mbaneshi/langs)](https://githubtrends.io)
-
+This profile is MIT licensed.  
+[![GitHub Trends](https://api.githubtrends.io/user/svg/mbaneshi/langs)](https://githubtrends.io)
