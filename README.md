@@ -67,9 +67,3 @@ Feel free to reach out:
 - **Telegram**: [t.me/mbaneshi1](https://t.me/mbaneshi1)
 - **Email**: [baneshi@gmail.com](mailto:baneshi@gmail.com)
 
----
-
-## 📄 License
-
-This profile is MIT licensed.  
-[![GitHub Trends](https://api.githubtrends.io/user/svg/mbaneshi/langs)](https://githubtrends.io)
