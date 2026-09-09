@@ -1,6 +1,6 @@
 # Hi, I'm Mehdi Baneshi 👋
 
-I'm a **Full Stack Developer & AI Integrator**, working as an **independent contractor** and **remote-first developer**. I help startups and growing teams build scalable applications — faster — by combining modern tech stacks with intelligent automation.
+I'm a **Technical Builder** — Systems · Products · AI · Automation. I take complex or broken problems — a stalled migration, legacy infrastructure, a process still held together by hand — and rebuild them end-to-end into working, production systems. I work as an **independent contractor** and **remote-first developer**, helping startups and growing teams build scalable applications faster by combining modern tech stacks with intelligent automation.
 
 With over 8 years of experience, I specialize in **leading small teams**, **mentoring junior developers**, and **architecting full-stack systems** that are maintainable, efficient, and ready for growth.
 
@@ -62,8 +62,8 @@ I'm open to **freelance projects**, **contract roles**, and **remote opportuniti
 
 Feel free to reach out:
 
+- **Website**: [mbaneshi.ir](https://www.mbaneshi.ir/)
 - **LinkedIn**: [linkedin.com/in/mbaneshi](https://www.linkedin.com/in/mbaneshi/)
 - **Substack**: [substack.com/@baneshi](https://substack.com/@baneshi)
 - **Telegram**: [t.me/mbaneshi1](https://t.me/mbaneshi1)
 - **Email**: [baneshi@gmail.com](mailto:baneshi@gmail.com)
-
